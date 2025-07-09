@@ -4,6 +4,8 @@ A modern, decentralized profile management application that allows users to conn
 
 **Made by Coding Aashan** 👨‍💻
 
+Link: https://wallet-management-001.vercel.app/  : V1.0
+
 ## ✨ Features
 
 ### 🔗 Wallet Integration
